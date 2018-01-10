@@ -20,3 +20,55 @@ out which cross-platform solution makes the most sense for your needs.
 image_url: '7apps.jpg',
 price: 26.00)
 # . . .
+
+
+
+
+
+Product.create(title: 'BLA DI BLA blablablaah ',
+description:
+%{<p>
+<em>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non illo 
+earum quis voluptatum unde temporibus eaque ea. Vel, porro, doloremque? 
+Dicta quisquam totam velit suscipit repellat officia, delectus 
+praesentium natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non illo 
+earum quis voluptatum unde temporibus eaque ea. Vel, porro, doloremque? 
+Dicta quisquam totam velit suscipit repellat officia, delectus 
+praesentium natus.
+</p>},
+image_url: '7apps.jpg',
+price: 116.00)
+
+
+Product.create(title: 'OH NO! ',
+description:
+%{<p>
+<em>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non illo 
+earum quis voluptatum unde temporibus eaque ea. Vel, porro, doloremque? 
+Dicta quisquam totam velit suscipit repellat officia, delectus 
+praesentium natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non illo 
+earum quis voluptatum unde temporibus eaque ea. Vel, porro, doloremque? 
+Dicta quisquam totam velit suscipit repellat officia, delectus 
+praesentium natus.
+</p>},
+image_url: '7apps.jpg',
+price: 139.00)
+
+
+
+Product.create(title: 'Alice D in wonderland ',
+description:
+%{<p>
+<em>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non illo 
+earum quis voluptatum unde temporibus eaque ea. Vel, porro, doloremque? 
+Dicta quisquam totam velit suscipit repellat officia, delectus 
+praesentium natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non illo 
+earum quis voluptatum unde temporibus eaque ea. Vel, porro, doloremque? 
+Dicta quisquam totam velit suscipit repellat officia, delectus 
+praesentium natus.
+</p>},
+image_url: '7apps.jpg',
+price: 111.00)
+
+
+
